@@ -3462,10 +3462,7 @@
       }
     },
     "ON/OFF Lighting Relay Switch (SIN-2-1-01)": {
-      "EEP": [
-        "D2-01-0F",
-        "MV-01-02"
-      ],
+      "EEP": ["D2-01-0F"],
       "autocreate": true,
       "teachin_method": "UTE",
       "id_offset": true,
